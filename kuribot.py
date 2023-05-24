@@ -10,7 +10,7 @@ async def send_message(message, user_message, is_private):
         print(e)
         
 def run_bot():
-    TOKEN = 'MTA5Njk5MjIwMTc4NDk1MDc5NA.GrOsSx.8dJ9v5iIzm_KytlTF60Y12EjtKiOusDWeJ3Bys'
+    TOKEN = '<your discord bot token here>'
     intents = discord.Intents.default()
     intents.message_content = True
     prefix = 'kuri?'
