@@ -5,6 +5,6 @@ Discord bot whose main function is to act as an anime catgirl chatbot or base ch
 2. give the bot permissions to at least read messages, write messages, join a voice channel and play voice
 3. invite the bot to your discord server
 4. install requirements.txt
-5. paste your discord token into the TOKEN varible in kuribot.py
+5. paste your discord bots token into the TOKEN varible in kuribot.py
 6. paste your openai token into the token varible in gpthistory.py
 7. run from the command line using: python main.py
