@@ -8,3 +8,5 @@ Discord bot whose main function is to act as an anime catgirl chatbot or base ch
 5. paste your discord bots token into the TOKEN varible in kuribot.py
 6. paste your openai token into the token varible in gpthistory.py
 7. run from the command line using: python main.py
+
+you can customize kuris behaviour and personality by editing the pre-prompt in gpthistory.py
