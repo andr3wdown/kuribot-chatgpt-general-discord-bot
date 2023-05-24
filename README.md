@@ -9,4 +9,4 @@ Discord bot whose main function is to act as an anime catgirl chatbot or base ch
 6. paste your openai token into the token varible in gpthistory.py
 7. run from the command line using: python main.py
 
-you can customize kuris personality by editing the first line of the template variable in gpthistory.py
+you can customize kuris personality by editing the first line of the template variable in gpthistory.py (this acts as a pre-promt to get the desired personality out of base chatgpt)
